@@ -1,0 +1,16 @@
+[
+{
+  "modid": "cyrus",
+  "name": "Cyrus Client",
+  "description": "The cool client idk python please change this.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Z3R0", "Odonata", "Python"],
+  "credits": "Z3R0 for making clientbase and everything (so far) and python and odonata bc they are cool",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
