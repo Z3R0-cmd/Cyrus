@@ -2,7 +2,7 @@
 {
   "modid": "cyrus",
   "name": "Cyrus Client",
-  "description": "The cool client idk python please change this.",
+  "description": "A minecraft 1.12.2 forge cheat for anarchy servers.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
